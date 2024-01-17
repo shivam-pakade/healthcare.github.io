@@ -4,6 +4,6 @@ Install go
 Ubuntu : snap install go 
 Kali : apt install go-lang
 
-scoop install https://raw.githubusercontent.com/aandrew-me/tgpt/main/tgpt.json
+go install github.com/aandrew-me/tgpt/v2@latest
 
 Usage : tgpt '<--text-->'
