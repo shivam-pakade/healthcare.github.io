@@ -1,0 +1,9 @@
+curl -sSL https://raw.githubusercontent.com/aandrew-me/tgpt/main/install | bash -s /usr/local/bin
+
+Install go 
+Ubuntu : snap install go 
+Kali : apt install go-lang
+
+scoop install https://raw.githubusercontent.com/aandrew-me/tgpt/main/tgpt.json
+
+Usage : tgpt '<--text-->'
